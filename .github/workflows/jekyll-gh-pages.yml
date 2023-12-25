@@ -30,9 +30,11 @@ jobs:
       - name: "Set up Ruby"
         uses: ruby/setup-ruby@v1
         with:
+          bundler-cache: true
           ruby-version: 3.2
+          cache-version: 0
       - name: Install gems
-        uses: bundle install
+        run: bundle install
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
