@@ -1,4 +1,4 @@
-name: "Comprueba README"
+name: "Comprueba Ortografía"
 
 on:
   push:
@@ -16,7 +16,7 @@ on:
       - 'words.dic'
 
 jobs:
-  OrtografiaReadme:
+  Ortografia:
     runs-on: ubuntu-latest
 
     steps:
