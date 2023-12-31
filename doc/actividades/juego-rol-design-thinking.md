@@ -4,9 +4,9 @@
 enfocar el desarrollo de un producto, que, al estar centrada en el
 cliente, se adapta muy bien al desarrollo ágil.
 
-La primera fase es la de *empatía*, en la que se trata de entender qué
-problema tiene el cliente *poniéndote en sus zapatos* para comprender
-qué necesita y por qué lo necesita.
+La primera fase en un proceso de *design thinking* es la de *empatía*, en la que
+se trata de entender qué problema tiene el cliente *poniéndote en sus zapatos*
+para comprender qué necesita y por qué lo necesita.
 
 ## Material necesario
 
