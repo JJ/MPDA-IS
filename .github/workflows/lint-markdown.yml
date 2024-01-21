@@ -23,5 +23,5 @@ jobs:
         run: gem install mdl
       - name: "Comprueba estilo de archivos Markdown"
         working-directory: ${{ github.workspace }}
-        run: mdl --style .mdl.rb .
+        run: mdl --ignore-front-matter --style .mdl.rb .
 
