@@ -1,4 +1,4 @@
-# Ingeniería del Software - MPDA
+# §00 •  Ingeniería del Software - MPDA
 
 [![Comprueba
 ortografía](https://github.com/JJ/MPDA-IS/actions/workflows/check-readme.yml/badge.svg)](https://github.com/JJ/MPDA-IS/actions/workflows/check-readme.yml)
@@ -11,4 +11,9 @@ Desarrollo de Aplicaciones de la Cámara de Comercio y T-Systems.
 Se trata de enseñanza basada en proyecto y evaluación formativa; cada equipo irá
 superando una serie de objetivos a lo largo del curso, trabajando a su propio ritmo.
 
-## Objetivos
+## Niveles
+
+El proyecto se organiza en varios niveles; para pasar un nivel hay que superar
+los niveles anteriores. Cada nivel tiene una serie de objetivos de trabajo.
+
+* [Nivel 0 - Infraestructura](doc/0.Repositorio.md)
