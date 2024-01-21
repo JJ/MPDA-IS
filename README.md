@@ -1,4 +1,8 @@
-# §00 •  Ingeniería del Software - MPDA
+---
+nav_order: 0
+---
+
+# Ingeniería del Software - MPDA
 
 [![Comprueba
 ortografía](https://github.com/JJ/MPDA-IS/actions/workflows/check-readme.yml/badge.svg)](https://github.com/JJ/MPDA-IS/actions/workflows/check-readme.yml)
