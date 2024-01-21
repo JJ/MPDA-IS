@@ -1,7 +1,6 @@
 ---
 nav_order: 99
 ---
-
 # Juego de rol: empatizando para definir un problema a resolver
 
 [Design thinking](https://designthinking.es/) es una metodología para
