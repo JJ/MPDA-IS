@@ -1,6 +1,3 @@
----
-nav_order: 0
----
 # Ingeniería del Software - MPDA
 
 [![Comprueba
