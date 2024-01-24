@@ -24,3 +24,7 @@ los niveles anteriores. Cada nivel tiene una serie de objetivos de trabajo.
 
 Se comenzará con un [juego de rol](doc/actividades/juego-rol-design-thinking.md)
 para poder diseñar un producto que se vaya a usar durante toda la materia.
+
+## Licencia
+
+Este material tiene una licencia Creative Commons CC-By-SA.

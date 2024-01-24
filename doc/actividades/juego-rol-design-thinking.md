@@ -26,8 +26,8 @@ llevará impresas a clase:
 
 ## Objetivo del juego
 
-Para el estudiante, formular correctamente un problema válido para la
-  asignatura IV; este juego le permitirá entender mejor cómo se
+Para el estudiante, formular correctamente un problema válido para la materia de
+  ingeniería del software; este juego le permitirá entender mejor cómo se
   formulan problemas para su resolución en entornos de ingeniería.
 
 ## Desarrollo del juego
@@ -66,7 +66,7 @@ es lo que necesita, absteniéndose de formular ningún tipo de solución
 posible y tomará notas. Al final de los 15 minutos, consultando si es
 necesario las notas, le resumirá al estudiante A (el <em>cliente</em>)
 lo que ha entendido. También le dará una valoración de si entiende que
-se podría resolver dentro de una asignatura como IV, de
+se podría resolver dentro de una materia como esta, de
 infraestructura virtual. Al final de este proceso, se invertirán los
 roles de estudiante A y estudiante B.  </td> </tr>
 
@@ -89,7 +89,7 @@ alguna aplicación?</li> <li> ¿Hay algún dato que se pueda procesar a
 partir de fuentes poco estructuradas? ¿Ofertas de algo?  ¿Información
 de alguna página de una institución?</li> </ol> Eventualmente tendrán
 que intentar entre los dos formular el problema que el estudiante A
-podrá plantear en la asignatura.  </td>
+podrá plantear en la materia.  </td>
 </tr>
 
 <tr>
@@ -108,8 +108,8 @@ problema tiene con las modificaciones que haya hecho en la interacción
 anterior; una vez más el estudiante B será entrevistador, hará
 preguntas y solicitará aclaraciones, y al final validará (o no) el
 problema planteado como un problema que podría ser válido para la
-asignatura. Si el estudiante B no valida el problema para la
-     asignatura, se volverá al paso anterior de formulación del
+materia. Si el estudiante B no valida el problema para la
+     materia, se volverá al paso anterior de formulación del
      problema en el tiempo que permita la clase, con la temporización
      necesaria y creando parejas entre las personas que no se hayan
      validado. El estudiante B le entregará al A la ficha con lo que
