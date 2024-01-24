@@ -19,3 +19,8 @@ los niveles anteriores. Cada nivel tiene una serie de objetivos de trabajo.
 * [Nivel 0 - Infraestructura](doc/0.Repositorio.md)
 * [Nivel 1 - Planificación](doc/1.Planificacion.md)
 * [Nivel 2 - Modelización](doc/2.Modelo.md)
+
+## Actividades
+
+Se comenzará con un [juego de rol](doc/actividades/juego-rol-design-thinking.md)
+para poder diseñar un producto que se vaya a usar durante toda la materia.
