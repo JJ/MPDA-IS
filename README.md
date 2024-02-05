@@ -19,6 +19,9 @@ los niveles anteriores. Cada nivel tiene una serie de objetivos de trabajo.
 * [Nivel 0 - Infraestructura](doc/0.Repositorio.md)
 * [Nivel 1 - Planificación](doc/1.Planificacion.md)
 * [Nivel 2 - Modelización](doc/2.Modelo.md)
+* [Nivel 3 - Automatización](doc/3.Automatizar.md)
+* [Nivel 4 - Integración continua](doc/3.CI.md). Estos dos últimos niveles son simultáneos.
+
 
 ## Actividades
 
