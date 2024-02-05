@@ -32,6 +32,7 @@ instalaciones y conceptos que son necesarios para superar los niveles, en caso
 de que no se hayan hecho.
 
 * [Conciencia situacional](doc/infraestructura/1.ConcienciaSituacional.md).
+* [Documentando las decisiones](doc/infraestructura/2.ADD.md)
 
 ## Licencia
 
