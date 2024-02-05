@@ -23,5 +23,5 @@ jobs:
       - name: "Install the linter"
         run: bundle install
       - name: "Comprueba estilo de archivos Markdown"
-        run: rake mdlint
+        run: rake mdlint --trace
 

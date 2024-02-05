@@ -33,6 +33,7 @@ de que no se hayan hecho.
 
 * [Conciencia situacional](doc/infraestructura/1.ConcienciaSituacional.md).
 * [Documentando las decisiones](doc/infraestructura/2.ADD.md)
+* [Documentando el código](doc/infraestructura/3.Documentación.md)
 
 ## Licencia
 

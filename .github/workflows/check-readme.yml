@@ -39,5 +39,5 @@ jobs:
       - name: "Install the linter"
         run: bundle install
       - name: Comprueba la ortografía
-        run: rake spellcheck
-      
+        run: rake spellcheck --trace
+
