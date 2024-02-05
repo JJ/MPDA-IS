@@ -1,7 +1,7 @@
 task default: %w[mdlint]
 
 task :mdlint do
-  puts %x{mdl --ignore-front-matter --style .mdl.rb .}
+  puts %x{bundle exec mdl --ignore-front-matter --style .mdl.rb .}
 end
 
 task :spellcheck do
