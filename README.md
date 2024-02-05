@@ -31,6 +31,8 @@ También hay una serie de actividades de "infraestructura", diferentes
 instalaciones y conceptos que son necesarios para superar los niveles, en caso
 de que no se hayan hecho.
 
+* [Conciencia situacional](doc/infraestructura/1.ConcienciaSituacional.md).
+
 ## Licencia
 
 Este material tiene una licencia Creative Commons CC-By-SA.
