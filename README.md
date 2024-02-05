@@ -22,7 +22,6 @@ los niveles anteriores. Cada nivel tiene una serie de objetivos de trabajo.
 * [Nivel 3 - Automatización](doc/3.Automatizar.md)
 * [Nivel 4 - Integración continua](doc/3.CI.md). Estos dos últimos niveles son simultáneos.
 
-
 ## Actividades
 
 Se comenzará con un [juego de rol](doc/actividades/juego-rol-design-thinking.md)
