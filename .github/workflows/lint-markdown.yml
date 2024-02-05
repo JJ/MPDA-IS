@@ -4,10 +4,12 @@ on:
   push:
     paths:
       - '**/*.md'
+      - ".mdl.rb"
 
   pull_request:
     paths:
       - '**/*.md'
+      - ".mdl.rb"
 
 jobs:
   LintMarkdown:
