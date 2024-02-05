@@ -60,7 +60,7 @@ sobre el problema inicial. Al final de este proceso, se invertirán los
 roles de estudiante A y estudiante B.</td>
 <td>Es un entrevistador que
 quiere entender qué necesita: tiene que empezar por preguntarle "¿En
-qué puedo ayudarte?" o "¿Qué problema tenemos entremanos?". A
+qué puedo ayudarte?" o "¿Qué problema tenemos entre manos?". A
 continuación, le hará las preguntas necesarias para entender bien qué
 es lo que necesita, absteniéndose de formular ningún tipo de solución
 posible y tomará notas. Al final de los 15 minutos, consultando si es
@@ -102,7 +102,7 @@ anteriores.
 
 <tr>
      <td colspan="2"><em>Validación</em>
-<strong>10 minutos</strong>: se establacen nuevas parejas, y una vez más
+<strong>10 minutos</strong>: se establecen nuevas parejas, y una vez más
 estudiante A volverá a asumir el rol del posible cliente y contar qué
 problema tiene con las modificaciones que haya hecho en la interacción
 anterior; una vez más el estudiante B será entrevistador, hará
