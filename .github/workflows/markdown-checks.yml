@@ -7,6 +7,7 @@ on:
       - '**/*.md'
       - 'doc/words.dic'
       - 'words.dic'
+      - ".mdl.rb"
 
   pull_request:
     paths:
@@ -22,6 +23,9 @@ on:
 jobs:
   Ortografia:
     runs-on: ubuntu-latest
+    concurrency:
+      group: mdcheck
+      cancel-in-progress: true
     steps:
       - name: Prerrequisites
         run: |
@@ -44,3 +48,19 @@ jobs:
       - name: Comprueba la ortografía
         run: rake spellcheck
 
+  LintMarkdown:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: mdcheck
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v4
+      - name: "Set up Ruby"
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+      - name: "Install the linter"
+        run: bundle install
+      - name: "Comprueba estilo de archivos Markdown"
+        run: rake mdlint
