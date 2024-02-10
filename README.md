@@ -9,8 +9,8 @@ Esta es la documentación para una materia en el máster de Programación y
 Desarrollo de Aplicaciones de la Cámara de Comercio y T-Systems.
 
 Se trata de enseñanza basada en proyecto y evaluación formativa; cada equipo irá
-superando una serie de objetivos a lo largo del curso, trabajando a su propio
-ritmo.
+avanzando con la superación de una serie de niveles a lo largo del curso,
+trabajando a su propio ritmo.
 
 Esta documentación está disponible en el
 [repositorio](https://github.com/JJ/MPDA-IS) y [la
@@ -21,7 +21,9 @@ Cada edición tendrá [su propio repo](https://github.com/JJ/MPDA-IS-ed).
 ## Niveles
 
 El proyecto se organiza en varios niveles; para pasar un nivel hay que superar
-los niveles anteriores. Cada nivel tiene una serie de objetivos de trabajo.
+los niveles anteriores. Cada nivel tiene una serie de objetivos de aprendizaje;
+cuando se superen esos objetivos, se habrá superado el nivel por parte del
+equipo.
 
 * [Nivel 0 - Infraestructura](doc/0.Repositorio.md)
 * [Nivel 1 - Planificación](doc/1.Planificacion.md)
