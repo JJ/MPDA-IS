@@ -34,9 +34,14 @@ También hay una serie de actividades de "infraestructura", diferentes
 instalaciones y conceptos que son necesarios para superar los niveles, en caso
 de que no se hayan hecho.
 
-* [Conciencia situacional](doc/infraestructura/1.ConcienciaSituacional.md).
-* [Documentando las decisiones](doc/infraestructura/2.ADD.md)
-* [Documentando el código](doc/infraestructura/3.Documentación.md)
+* [Conciencia
+  situacional](doc/infraestructura/1.ConcienciaSituacional.md), saber lo que
+  estás haciendo tú y el resto del equipo.
+* [Documentando las decisiones](doc/infraestructura/2.ADD.md), usando la
+  infraestructura que nos proporciona GitHub.
+* [Documentando el código](doc/infraestructura/3.Documentación.md) usando
+  formatos estándar de los que generar manuales de referencia y que se puedan
+  usar dentro del IDE.
 
 ## Licencia
 
