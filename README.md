@@ -16,6 +16,8 @@ Esta documentación está disponible en el
 [repositorio](https://github.com/JJ/MPDA-IS) y [la
 web](https://jj.github.io/MPDA-IS).
 
+Cada edición tendrá [su propio repo](https://github.com/JJ/MPDA-IS-ed).
+
 ## Niveles
 
 El proyecto se organiza en varios niveles; para pasar un nivel hay que superar
