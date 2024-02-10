@@ -15,12 +15,13 @@ on:
       - 'doc/words.dic'
       - 'words.dic'
 
+  concurrency:
+    group: ${{ github.workflow }}-${{ github.ref }}
+    cancel-in-progress: true
+
 jobs:
   Ortografia:
     runs-on: ubuntu-latest
-    concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
-      cancel-in-progress: true
     steps:
       - name: Prerrequisites
         run: |
