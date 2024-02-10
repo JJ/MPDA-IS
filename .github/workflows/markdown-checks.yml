@@ -47,6 +47,9 @@ jobs:
 
   LintMarkdown:
     runs-on: ubuntu-latest
+    concurrency:
+      group: ortografia
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v4
       - name: "Set up Ruby"
