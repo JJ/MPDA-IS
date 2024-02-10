@@ -1,4 +1,4 @@
-name: "Comprueba Ortografía"
+name: "Comprobaciones Markdown"
 
 on:
   push:
