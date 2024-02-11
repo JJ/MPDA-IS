@@ -1,4 +1,4 @@
-name: "Comprobaciones Markdown"
+name: "Comprobaciones Markdown y despliegue"
 
 on:
   push:
