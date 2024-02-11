@@ -1,9 +1,6 @@
 # Ingeniería del Software - MPDA
 
-[![Comprueba
-ortografía](https://github.com/JJ/MPDA-IS/actions/workflows/check-readme.yml/badge.svg)](https://github.com/JJ/MPDA-IS/actions/workflows/check-readme.yml)
-[![Lint
-Markdown](https://github.com/JJ/MPDA-IS/actions/workflows/lint-markdown.yml/badge.svg)](https://github.com/JJ/MPDA-IS/actions/workflows/lint-markdown.yml)
+[![Comprobaciones Markdown y despliegue](https://github.com/JJ/MPDA-IS/actions/workflows/markdown-checks.yml/badge.svg)](https://github.com/JJ/MPDA-IS/actions/workflows/markdown-checks.yml)
 
 Esta es la documentación para una materia en el máster de Programación y
 Desarrollo de Aplicaciones de la Cámara de Comercio y T-Systems.
